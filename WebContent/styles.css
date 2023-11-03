@@ -8,14 +8,14 @@ body {
 }
 
 #topmid {
-	border: 0px solid black;
-	color: #FFFFFF;
+	border: 0px solid rgb(147, 195, 26);
+	color: #a2b20f;
 	text-align: center;
 	font-weight: bold;
 	margin: auto;
 	font-style: oblique;
 	font-size: 25px;
-	text-shadow: 2px 2px #ff0000;
+	text-shadow: 2px 2px #0b0b0b;
 }
 
 .tab {
@@ -28,7 +28,7 @@ body {
 .tab tr {
 	border: 1px black hidden;
 	border-radius: 10px;
-	background-color: #FFE5CC;
+	background-color: #c67122;
 	font-size: 22px;
 	float:left;
 	padding-left:17%;
@@ -39,7 +39,7 @@ body {
 }
 
 a:hover {
-	color: red;
+	color: rgb(33, 236, 151);
 }
 
 a:link {
